@@ -1,0 +1,6 @@
+[submodule "target"]
+	path = target
+	url = https://github.com/dnasdw/libsundaowen_astc-encoder.git
+[submodule "astc-encoder_src"]
+	path = astc-encoder_src
+	url = https://github.com/dnasdw/libsundaowen_astc-encoder_src.git
